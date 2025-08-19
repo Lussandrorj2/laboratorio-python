@@ -1,4 +1,5 @@
 print("### Tabuada ###") 
+#data → 19/08/2025
 while True:
     try: #Trato o erro ValueError caso o usuário digite algo que não seja um número
         num = int(input("Digite um número (ou digite 0 para sair): "))
